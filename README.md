@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @salahhim ;
-- 👀 I’m interested in web dev ;
-- 🌱 I’m currently learning c++...
+- 👀 I’m interested in Software Developement ;
+- 🌱 I’m currently learning DSA
